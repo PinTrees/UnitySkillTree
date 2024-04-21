@@ -1,0 +1,460 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaac0c9f1adfd44b2681bebfdcacf9, type: 3}
+  m_Name: SkillTreeData
+  m_EditorClassIdentifier: 
+  m_SkillDatas:
+  - uid: 52738ec1-dad6-4648-bac8-4e50fcb52b72
+    nodePosition:
+      serializedVersion: 2
+      x: 386.66666
+      y: 140.66667
+      width: 290.66666
+      height: 174.66666
+    data: {fileID: 11400000, guid: 58f986b5de961cd4f905efe4ea3e3106, type: 2}
+  - uid: 11569001-58f7-4aa0-85c7-f9ac7fe649fb
+    nodePosition:
+      serializedVersion: 2
+      x: 756.6667
+      y: 140.66667
+      width: 292.6667
+      height: 174.66666
+    data: {fileID: 11400000, guid: cef0e4ba0aba6174184d8c0d48d42b70, type: 2}
+  - uid: cf9104c0-556c-488a-8b3f-50f3f2dffd23
+    nodePosition:
+      serializedVersion: 2
+      x: 1126
+      y: 325.3333
+      width: 290.66663
+      height: 174.66666
+    data: {fileID: 11400000, guid: 5d66f0b03aa0e7f4ca57c200f401eaa5, type: 2}
+  - uid: 4ac25181-4d9f-4d87-b5d7-fd7ac178aaf8
+    nodePosition:
+      serializedVersion: 2
+      x: 1126
+      y: 140.66667
+      width: 290.66663
+      height: 174.66666
+    data: {fileID: 11400000, guid: 59c57601295de004a96624d5f400a0fa, type: 2}
+  - uid: 9b2d448d-aff3-444c-b6eb-885a14be187f
+    nodePosition:
+      serializedVersion: 2
+      x: 386
+      y: 560
+      width: 292.6667
+      height: 174.66669
+    data: {fileID: 11400000, guid: ccd0887651a90c046b308a7ba507302e, type: 2}
+  - uid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+    nodePosition:
+      serializedVersion: 2
+      x: 1126
+      y: 560
+      width: 292.66663
+      height: 174.66669
+    data: {fileID: 11400000, guid: 01c57e1b790654b4d96dd5430d2911ef, type: 2}
+  - uid: 96e1a493-452a-4dc3-aaf7-1f0299617e2d
+    nodePosition:
+      serializedVersion: 2
+      x: 1541.3334
+      y: 325.3333
+      width: 290.66663
+      height: 174.66666
+    data: {fileID: 11400000, guid: a894756a4d0b4cb46a28f9963c414d2c, type: 2}
+  - uid: 03f938dd-52cd-4626-aba7-b78849a51873
+    nodePosition:
+      serializedVersion: 2
+      x: 1952
+      y: 325.3333
+      width: 292
+      height: 174.66666
+    data: {fileID: 11400000, guid: b9ca9b112ae7c9f48b8df18ec2bb9d9d, type: 2}
+  - uid: 65f093d5-09ed-4eda-a9da-99515551d71f
+    nodePosition:
+      serializedVersion: 2
+      x: 756.6667
+      y: -138.66667
+      width: 291.99994
+      height: 174.66667
+    data: {fileID: 11400000, guid: 01d50fc65f1daf14a813c09dc9eaaca2, type: 2}
+  - uid: b76f98f0-f8a1-4c6b-bb41-b3f6d3125d7d
+    nodePosition:
+      serializedVersion: 2
+      x: 1124
+      y: -138.66667
+      width: 292
+      height: 174.66667
+    data: {fileID: 11400000, guid: eeccb65cc26026049bf984bc908b0d2b, type: 2}
+  - uid: fa05fa27-982f-4249-a445-7628f4ca09a9
+    nodePosition:
+      serializedVersion: 2
+      x: 1126
+      y: -348.6667
+      width: 290.66663
+      height: 174.66669
+    data: {fileID: 11400000, guid: f5305dbb181ac5d46a76485e9982e0bb, type: 2}
+  - uid: 29d58233-10cd-4d47-9aba-6ba0dc186322
+    nodePosition:
+      serializedVersion: 2
+      x: 1460
+      y: -348.6667
+      width: 292
+      height: 174.66669
+    data: {fileID: 11400000, guid: 16f2fed534a85cb46b65481802fdc3d5, type: 2}
+  - uid: c3d185d3-05c8-4515-b2bc-bc52488230f6
+    nodePosition:
+      serializedVersion: 2
+      x: 1952
+      y: -138.66667
+      width: 290.66675
+      height: 174.66667
+    data: {fileID: 11400000, guid: 5dd2d56201cd7ae43aa0805cedfbbd28, type: 2}
+  - uid: 1cceba44-80cf-4e99-a335-190d17af5747
+    nodePosition:
+      serializedVersion: 2
+      x: 2372
+      y: -138.66667
+      width: 292
+      height: 174.66667
+    data: {fileID: 11400000, guid: 64655aa6502d49c4e81c447b39517826, type: 2}
+  - uid: 76b4f5c4-5b64-45cc-83c9-ccdc7cfe9be4
+    nodePosition:
+      serializedVersion: 2
+      x: 2372
+      y: 560
+      width: 292.66675
+      height: 174.66669
+    data: {fileID: 11400000, guid: d8048a20b0da4284f8caebe548956ef6, type: 2}
+  - uid: 8b60c8a5-d8c3-465c-b48e-30be91e7e5f8
+    nodePosition:
+      serializedVersion: 2
+      x: 2754.6667
+      y: 325.3333
+      width: 290.6665
+      height: 174.66666
+    data: {fileID: 11400000, guid: fa69b839866559e43819746923910b06, type: 2}
+  - uid: 49c2e610-d040-485b-8eb6-4c8ed8006077
+    nodePosition:
+      serializedVersion: 2
+      x: 1539.3334
+      y: 783.3334
+      width: 290.66663
+      height: 174.66663
+    data: {fileID: 11400000, guid: c84c6ab7a9177714a882199f51118e7a, type: 2}
+  - uid: 20947437-a549-4a8b-b9ca-a0e8d0618a87
+    nodePosition:
+      serializedVersion: 2
+      x: 1539.3334
+      y: 995.3333
+      width: 292
+      height: 174.66675
+    data: {fileID: 11400000, guid: 766e7d6f13478a642b5a662da8377b41, type: 2}
+  - uid: b3e19ab3-e40b-4db0-b31b-9e970c0883eb
+    nodePosition:
+      serializedVersion: 2
+      x: 1952
+      y: 783.3334
+      width: 290.66675
+      height: 174.66663
+    data: {fileID: 11400000, guid: f05dc462a96dc8948801d5841a7623f0, type: 2}
+  - uid: 712ee72d-7b30-4ed3-91b7-2c7552e450ce
+    nodePosition:
+      serializedVersion: 2
+      x: 2372
+      y: 995.3333
+      width: 290.66675
+      height: 174.66675
+    data: {fileID: 11400000, guid: 18988f5b5c3076042949d80ab887a999, type: 2}
+  - uid: 92c65aa6-d5e3-4666-b98c-c7c48d5dde0c
+    nodePosition:
+      serializedVersion: 2
+      x: 756.6667
+      y: 783.3334
+      width: 290.6667
+      height: 174.66663
+    data: {fileID: 11400000, guid: 6fc04b5288bb8824e8096449f7e2cb73, type: 2}
+  - uid: 1b90bc65-b72d-45a1-b5d5-ef3d2b588006
+    nodePosition:
+      serializedVersion: 2
+      x: 2754.6667
+      y: -348.6667
+      width: 292.6665
+      height: 174.66669
+    data: {fileID: 11400000, guid: 3b0d7a0231d153d4c8d577d6d4ee6ecc, type: 2}
+  - uid: dc408440-f463-475d-83e5-d3a1476d0582
+    nodePosition:
+      serializedVersion: 2
+      x: 3133.3333
+      y: 325.3333
+      width: 290.66675
+      height: 174.66666
+    data: {fileID: 11400000, guid: e14486b2c525dd644b687fffd7f6d046, type: 2}
+  - uid: 6205b70e-a8f2-4975-9548-1f6092cd0035
+    nodePosition:
+      serializedVersion: 2
+      x: 756.6667
+      y: 995.3333
+      width: 292.6667
+      height: 174.66675
+    data: {fileID: 11400000, guid: ca9f0b64fbc60094c85fca2f27630e31, type: 2}
+  - uid: dad01c94-808d-4193-9b80-e945eb01fb6b
+    nodePosition:
+      serializedVersion: 2
+      x: 3552
+      y: 995.3333
+      width: 292.66675
+      height: 174.66675
+    data: {fileID: 11400000, guid: 0f09349ab5da629489ee2bd8edc90f4d, type: 2}
+  m_SkillConnectDatas:
+  - parentSkillUid: 52738ec1-dad6-4648-bac8-4e50fcb52b72
+    childSkillUid: 11569001-58f7-4aa0-85c7-f9ac7fe649fb
+  - parentSkillUid: 11569001-58f7-4aa0-85c7-f9ac7fe649fb
+    childSkillUid: cf9104c0-556c-488a-8b3f-50f3f2dffd23
+  - parentSkillUid: 11569001-58f7-4aa0-85c7-f9ac7fe649fb
+    childSkillUid: 4ac25181-4d9f-4d87-b5d7-fd7ac178aaf8
+  - parentSkillUid: 11569001-58f7-4aa0-85c7-f9ac7fe649fb
+    childSkillUid: b76f98f0-f8a1-4c6b-bb41-b3f6d3125d7d
+  - parentSkillUid: cf9104c0-556c-488a-8b3f-50f3f2dffd23
+    childSkillUid: 96e1a493-452a-4dc3-aaf7-1f0299617e2d
+  - parentSkillUid: 4ac25181-4d9f-4d87-b5d7-fd7ac178aaf8
+    childSkillUid: 03f938dd-52cd-4626-aba7-b78849a51873
+  - parentSkillUid: 9b2d448d-aff3-444c-b6eb-885a14be187f
+    childSkillUid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+  - parentSkillUid: 9b2d448d-aff3-444c-b6eb-885a14be187f
+    childSkillUid: 92c65aa6-d5e3-4666-b98c-c7c48d5dde0c
+  - parentSkillUid: 9b2d448d-aff3-444c-b6eb-885a14be187f
+    childSkillUid: 6205b70e-a8f2-4975-9548-1f6092cd0035
+  - parentSkillUid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+    childSkillUid: 96e1a493-452a-4dc3-aaf7-1f0299617e2d
+  - parentSkillUid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+    childSkillUid: 76b4f5c4-5b64-45cc-83c9-ccdc7cfe9be4
+  - parentSkillUid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+    childSkillUid: 49c2e610-d040-485b-8eb6-4c8ed8006077
+  - parentSkillUid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+    childSkillUid: 20947437-a549-4a8b-b9ca-a0e8d0618a87
+  - parentSkillUid: 96e1a493-452a-4dc3-aaf7-1f0299617e2d
+    childSkillUid: 03f938dd-52cd-4626-aba7-b78849a51873
+  - parentSkillUid: 03f938dd-52cd-4626-aba7-b78849a51873
+    childSkillUid: 76b4f5c4-5b64-45cc-83c9-ccdc7cfe9be4
+  - parentSkillUid: 03f938dd-52cd-4626-aba7-b78849a51873
+    childSkillUid: 8b60c8a5-d8c3-465c-b48e-30be91e7e5f8
+  - parentSkillUid: 65f093d5-09ed-4eda-a9da-99515551d71f
+    childSkillUid: b76f98f0-f8a1-4c6b-bb41-b3f6d3125d7d
+  - parentSkillUid: 65f093d5-09ed-4eda-a9da-99515551d71f
+    childSkillUid: fa05fa27-982f-4249-a445-7628f4ca09a9
+  - parentSkillUid: b76f98f0-f8a1-4c6b-bb41-b3f6d3125d7d
+    childSkillUid: fa05fa27-982f-4249-a445-7628f4ca09a9
+  - parentSkillUid: b76f98f0-f8a1-4c6b-bb41-b3f6d3125d7d
+    childSkillUid: c3d185d3-05c8-4515-b2bc-bc52488230f6
+  - parentSkillUid: fa05fa27-982f-4249-a445-7628f4ca09a9
+    childSkillUid: 29d58233-10cd-4d47-9aba-6ba0dc186322
+  - parentSkillUid: 29d58233-10cd-4d47-9aba-6ba0dc186322
+    childSkillUid: c3d185d3-05c8-4515-b2bc-bc52488230f6
+  - parentSkillUid: 29d58233-10cd-4d47-9aba-6ba0dc186322
+    childSkillUid: 1b90bc65-b72d-45a1-b5d5-ef3d2b588006
+  - parentSkillUid: c3d185d3-05c8-4515-b2bc-bc52488230f6
+    childSkillUid: 1cceba44-80cf-4e99-a335-190d17af5747
+  - parentSkillUid: 1cceba44-80cf-4e99-a335-190d17af5747
+    childSkillUid: 1b90bc65-b72d-45a1-b5d5-ef3d2b588006
+  - parentSkillUid: 1cceba44-80cf-4e99-a335-190d17af5747
+    childSkillUid: dc408440-f463-475d-83e5-d3a1476d0582
+  - parentSkillUid: 8b60c8a5-d8c3-465c-b48e-30be91e7e5f8
+    childSkillUid: dc408440-f463-475d-83e5-d3a1476d0582
+  - parentSkillUid: 49c2e610-d040-485b-8eb6-4c8ed8006077
+    childSkillUid: b3e19ab3-e40b-4db0-b31b-9e970c0883eb
+  - parentSkillUid: 20947437-a549-4a8b-b9ca-a0e8d0618a87
+    childSkillUid: b3e19ab3-e40b-4db0-b31b-9e970c0883eb
+  - parentSkillUid: 20947437-a549-4a8b-b9ca-a0e8d0618a87
+    childSkillUid: 712ee72d-7b30-4ed3-91b7-2c7552e450ce
+  - parentSkillUid: b3e19ab3-e40b-4db0-b31b-9e970c0883eb
+    childSkillUid: 712ee72d-7b30-4ed3-91b7-2c7552e450ce
+  - parentSkillUid: 712ee72d-7b30-4ed3-91b7-2c7552e450ce
+    childSkillUid: dad01c94-808d-4193-9b80-e945eb01fb6b
+  - parentSkillUid: 92c65aa6-d5e3-4666-b98c-c7c48d5dde0c
+    childSkillUid: 49c2e610-d040-485b-8eb6-4c8ed8006077
+  - parentSkillUid: dc408440-f463-475d-83e5-d3a1476d0582
+    childSkillUid: dad01c94-808d-4193-9b80-e945eb01fb6b
+  m_SkillUIPositionDatas:
+  - uid: 52738ec1-dad6-4648-bac8-4e50fcb52b72
+    nodePosition:
+      serializedVersion: 2
+      x: 337.33334
+      y: 160.66667
+      width: 77.33331
+      height: 77.33334
+  - uid: 11569001-58f7-4aa0-85c7-f9ac7fe649fb
+    nodePosition:
+      serializedVersion: 2
+      x: 536.6667
+      y: 160.66667
+      width: 77.33331
+      height: 77.33334
+  - uid: cf9104c0-556c-488a-8b3f-50f3f2dffd23
+    nodePosition:
+      serializedVersion: 2
+      x: 694.6667
+      y: 295.3333
+      width: 77.33331
+      height: 77.33334
+  - uid: 4ac25181-4d9f-4d87-b5d7-fd7ac178aaf8
+    nodePosition:
+      serializedVersion: 2
+      x: 694.6667
+      y: 160.66667
+      width: 77.33331
+      height: 77.33334
+  - uid: 9b2d448d-aff3-444c-b6eb-885a14be187f
+    nodePosition:
+      serializedVersion: 2
+      x: 337.33334
+      y: 430
+      width: 77.33331
+      height: 77.33334
+  - uid: 9322db40-e0cb-4851-9e98-92d8bbd31f30
+    nodePosition:
+      serializedVersion: 2
+      x: 694.6667
+      y: 430
+      width: 77.33331
+      height: 77.33334
+  - uid: 96e1a493-452a-4dc3-aaf7-1f0299617e2d
+    nodePosition:
+      serializedVersion: 2
+      x: 842
+      y: 295.3333
+      width: 77.33331
+      height: 77.33334
+  - uid: 03f938dd-52cd-4626-aba7-b78849a51873
+    nodePosition:
+      serializedVersion: 2
+      x: 988
+      y: 295.3333
+      width: 77.333374
+      height: 77.33334
+  - uid: 65f093d5-09ed-4eda-a9da-99515551d71f
+    nodePosition:
+      serializedVersion: 2
+      x: 536.6667
+      y: -6
+      width: 77.33331
+      height: 77.33333
+  - uid: b76f98f0-f8a1-4c6b-bb41-b3f6d3125d7d
+    nodePosition:
+      serializedVersion: 2
+      x: 694.6667
+      y: -6
+      width: 77.33331
+      height: 77.33333
+  - uid: fa05fa27-982f-4249-a445-7628f4ca09a9
+    nodePosition:
+      serializedVersion: 2
+      x: 694.6667
+      y: -137.33333
+      width: 77.33331
+      height: 77.333336
+  - uid: 29d58233-10cd-4d47-9aba-6ba0dc186322
+    nodePosition:
+      serializedVersion: 2
+      x: 840.6667
+      y: -137.33333
+      width: 77.33331
+      height: 77.333336
+  - uid: c3d185d3-05c8-4515-b2bc-bc52488230f6
+    nodePosition:
+      serializedVersion: 2
+      x: 988
+      y: -6
+      width: 77.333374
+      height: 77.33333
+  - uid: 1cceba44-80cf-4e99-a335-190d17af5747
+    nodePosition:
+      serializedVersion: 2
+      x: 1156.6666
+      y: -6
+      width: 77.333374
+      height: 77.33333
+  - uid: 76b4f5c4-5b64-45cc-83c9-ccdc7cfe9be4
+    nodePosition:
+      serializedVersion: 2
+      x: 1156.6666
+      y: 430
+      width: 77.333374
+      height: 77.33334
+  - uid: 8b60c8a5-d8c3-465c-b48e-30be91e7e5f8
+    nodePosition:
+      serializedVersion: 2
+      x: 1316.6666
+      y: 295.3333
+      width: 77.333374
+      height: 77.33334
+  - uid: 49c2e610-d040-485b-8eb6-4c8ed8006077
+    nodePosition:
+      serializedVersion: 2
+      x: 842
+      y: 548
+      width: 77.33331
+      height: 77.333374
+  - uid: 20947437-a549-4a8b-b9ca-a0e8d0618a87
+    nodePosition:
+      serializedVersion: 2
+      x: 842
+      y: 676
+      width: 77.33331
+      height: 77.333374
+  - uid: b3e19ab3-e40b-4db0-b31b-9e970c0883eb
+    nodePosition:
+      serializedVersion: 2
+      x: 988
+      y: 548
+      width: 77.333374
+      height: 77.333374
+  - uid: 712ee72d-7b30-4ed3-91b7-2c7552e450ce
+    nodePosition:
+      serializedVersion: 2
+      x: 1156.6666
+      y: 676
+      width: 77.333374
+      height: 77.333374
+  - uid: 92c65aa6-d5e3-4666-b98c-c7c48d5dde0c
+    nodePosition:
+      serializedVersion: 2
+      x: 536.6667
+      y: 548
+      width: 77.33331
+      height: 77.333374
+  - uid: 1b90bc65-b72d-45a1-b5d5-ef3d2b588006
+    nodePosition:
+      serializedVersion: 2
+      x: 1316.6666
+      y: -137.33333
+      width: 77.333374
+      height: 77.333336
+  - uid: dc408440-f463-475d-83e5-d3a1476d0582
+    nodePosition:
+      serializedVersion: 2
+      x: 1484.6666
+      y: 295.3333
+      width: 77.333374
+      height: 77.33334
+  - uid: 6205b70e-a8f2-4975-9548-1f6092cd0035
+    nodePosition:
+      serializedVersion: 2
+      x: 536.6667
+      y: 676
+      width: 77.33331
+      height: 77.333374
+  - uid: dad01c94-808d-4193-9b80-e945eb01fb6b
+    nodePosition:
+      serializedVersion: 2
+      x: 1316.6666
+      y: 676
+      width: 77.333374
+      height: 77.333374

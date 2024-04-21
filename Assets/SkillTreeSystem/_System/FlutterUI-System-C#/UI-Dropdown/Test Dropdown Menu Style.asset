@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 715a11e6e6d6668469bd63f0af51021e, type: 3}
+  m_Name: Test Dropdown Menu Style
+  m_EditorClassIdentifier: 
+  dropdownMenuButtonStyle:
+    backgroundImage: {fileID: 21300000, guid: b3df7b4a7e68bc64aa8fbf39f3d75fa4, type: 3}
+    backgroundColor: {r: 0.48427665, g: 0.48427665, b: 0.48427665, a: 1}
+    height: 32
+    textFontSize: 24
+  backgroundImage: {fileID: 0}
+  backgroundColor: {r: 0.17610055, g: 0.17610055, b: 0.17610055, a: 1}
+  width: 200
+  heightSpacing: 4
+  fitHeight: 1
